@@ -25,13 +25,6 @@ body {
 	/* Cor do elemento */
 	background-color: #2e2e2e;
 
-	/*https://desenvolvimentoparaweb.com/css/unidades-css-rem-vh-vw-vmin-vmax-ex-ch/*/
-	/*Altura mínima - A medida vh é igual a 1/100 da altura da viewport
-
-	Então, por exemplo, se a altura do navegador é 900px, 1vh equivale a 9px e, analogamente, se a largura da viewport é 750px, 1vw equivale a 7.5px.*/
-
-	/*https://origamid.com/projetos/flexbox-guia-completo/*/
-
 	/*Torna o elemento um flex container, 
 	  transformando todos os seus elementos 
 	  internos (filhos) em flex itens.*/
