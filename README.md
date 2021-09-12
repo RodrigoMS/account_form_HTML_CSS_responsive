@@ -2,8 +2,6 @@
 
 <p>Caso queira saber como foi feito este formulário, o vídeo está disponível no Youtube.<p>
 
-<br>
-
 <p>URL: https://youtu.be/Ph-60-pkAQM </p>
 
 <br>
